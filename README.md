@@ -1,7 +1,7 @@
 ### 你好
 
-- 我是：网络空间科学与技术硕士生
-- 感兴趣：RISC-V底层软件、嵌入式Rust语言
+- 我是：软件工程博士生
+- 感兴趣：系统安全、软件测试；RISC-V和Rust的开源软件
 
 <!--
 **luojia65/luojia65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
